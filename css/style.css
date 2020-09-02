@@ -1,0 +1,124 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: orangered;
+    color: ivory;
+    border-bottom: 3px solid rgb(87, 87, 87)230, 197, 197);
+    
+}
+
+.header-butt button{
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    box-shadow: 2px 3px 9px -2px black;
+}
+  
+
+.sec1 , .sec3 {
+    background-color: rgb(243, 240, 240);
+
+
+}
+
+.like-delete{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.like-delete button{
+
+    background: none;
+    border: none;
+    
+}
+
+ 
+
+
+section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2%;
+    
+}
+
+section img{
+    width: 15%;
+}
+
+.product-img {
+    width: 20%;
+}
+
+.like-delete{
+    width: 20%;
+    padding-right: 13%;
+}
+
+.product-name{
+    width:20% ;
+}
+.product-qte{
+    width: 20%;
+}
+.product-price{
+    width: 20%;
+}
+
+.product-img img{
+    width: 60%;
+}
+
+
+.btn-plus,
+.btn-moins {
+  border: none;
+  background: none;
+  outline: 0;
+
+}
+
+.btn-delete,
+.btn-like,
+ {
+  border: none;
+  background: none;
+  outline: 0;
+  width:100%;
+}
+
+span.quantity {
+    vertical-align: super;
+}
+
+i.fa.fa-heart {
+    font-size: 25px;
+}
+
+
+
+.product-qte {
+    text-align: center;
+  }
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
